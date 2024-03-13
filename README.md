@@ -1,7 +1,7 @@
 # Snake-Game
 # One Player Game
 "This project is an engaging rendition of the timeless Snake Game, created with HTML, CSS, and JavaScript. The game challenges players to control a snake, guiding it to consume food and grow longer. Featuring responsive design elements, the Snake Game delivers an immersive experience."
-## "Once GameOver Refresh or press F5 Key for Playing again and again"
+## "Once GameOver Refresh or press F5 Key for Playing again"
 
 <h1 align="center">
   <a href="https://arnnab-snakegame.netlify.app/">🐍👉Live Demo👍🐍</a>
