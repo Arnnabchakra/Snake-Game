@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+h1 {
+  margin-bottom: 2rem;
+  margin-top: -2rem;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 3.5rem;
+  background-color: rgb(0, 0, 0);
+  color:white;
+}
+canvas {
+  box-shadow: rgb(44, 43, 43) 20px 10px 50px;
+}
